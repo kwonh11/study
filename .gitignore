@@ -35,6 +35,11 @@ node_modules/
 npm-debug.log
 yarn-error.log
 
+# ios
+ios/
+# android
+android/
+
 # BUCK
 buck-out/
 \.buckd/
